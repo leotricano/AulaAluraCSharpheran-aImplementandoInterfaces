@@ -9,19 +9,25 @@ namespace bytebank_ADM.Funcionarios
     public class Diretor: Funcionario //Em suma, não precisamos manter essas propriedades na classe Diretor,
                                       //porque já temos acesso a elas pelo mecanismo de herança. Então, vamos removê-las:
     {
+        public Diretor(string cpf) : base(cpf, 5000)
+        {
+
+        }
         public override double GetBonificacao()                 //Para indicar ao compilador que o método
                                                                 //GetBonificacao() será sobrescrito na classe
                                                                 //Diretor, usaremos a palavra reservada override
         {
-            return this.Salario + base.GetBonificacao();    //110% do salario  Essa palavra permite acessar
+            return this.Salario * 0.5;    //110% do salario  Essa palavra permite acessar
                                                             //implementações existentes na superclasse ou classe base.
                                                             //Basta digitar base. para verificar os elementos à disposição, como Nome,
                                                             //Salario e GetBonificacao()
         }
 
-        public Diretor(string cpf):base(cpf) 
+        
+
+        public override void AumentarSalario()
         {
-           // Console.WriteLine("Criando Funcionario");
+            this.Salario *= 1.15;
         }
     }
 }
