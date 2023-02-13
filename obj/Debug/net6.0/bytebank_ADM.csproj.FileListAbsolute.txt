@@ -13,3 +13,18 @@ C:\Users\leonardot\Desktop\Alura\C#\Curso 1\bytebank_ADM\bytebank_ADM\bytebank_A
 C:\Users\leonardot\Desktop\Alura\C#\Curso 1\bytebank_ADM\bytebank_ADM\bytebank_ADM\obj\Debug\net6.0\bytebank_ADM.pdb
 C:\Users\leonardot\Desktop\Alura\C#\Curso 1\bytebank_ADM\bytebank_ADM\bytebank_ADM\obj\Debug\net6.0\bytebank_ADM.genruntimeconfig.cache
 C:\Users\leonardot\Desktop\Alura\C#\Curso 1\bytebank_ADM\bytebank_ADM\bytebank_ADM\obj\Debug\net6.0\ref\bytebank_ADM.dll
+D:\DOCUMENTOS\Desktop\Cursos\Alura\CSharp\bin\Debug\net6.0\bytebank_ADM.exe
+D:\DOCUMENTOS\Desktop\Cursos\Alura\CSharp\bin\Debug\net6.0\bytebank_ADM.deps.json
+D:\DOCUMENTOS\Desktop\Cursos\Alura\CSharp\bin\Debug\net6.0\bytebank_ADM.runtimeconfig.json
+D:\DOCUMENTOS\Desktop\Cursos\Alura\CSharp\bin\Debug\net6.0\bytebank_ADM.dll
+D:\DOCUMENTOS\Desktop\Cursos\Alura\CSharp\bin\Debug\net6.0\bytebank_ADM.pdb
+D:\DOCUMENTOS\Desktop\Cursos\Alura\CSharp\obj\Debug\net6.0\bytebank_ADM.csproj.AssemblyReference.cache
+D:\DOCUMENTOS\Desktop\Cursos\Alura\CSharp\obj\Debug\net6.0\bytebank_ADM.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOCUMENTOS\Desktop\Cursos\Alura\CSharp\obj\Debug\net6.0\bytebank_ADM.AssemblyInfoInputs.cache
+D:\DOCUMENTOS\Desktop\Cursos\Alura\CSharp\obj\Debug\net6.0\bytebank_ADM.AssemblyInfo.cs
+D:\DOCUMENTOS\Desktop\Cursos\Alura\CSharp\obj\Debug\net6.0\bytebank_ADM.csproj.CoreCompileInputs.cache
+D:\DOCUMENTOS\Desktop\Cursos\Alura\CSharp\obj\Debug\net6.0\bytebank_ADM.dll
+D:\DOCUMENTOS\Desktop\Cursos\Alura\CSharp\obj\Debug\net6.0\refint\bytebank_ADM.dll
+D:\DOCUMENTOS\Desktop\Cursos\Alura\CSharp\obj\Debug\net6.0\bytebank_ADM.pdb
+D:\DOCUMENTOS\Desktop\Cursos\Alura\CSharp\obj\Debug\net6.0\bytebank_ADM.genruntimeconfig.cache
+D:\DOCUMENTOS\Desktop\Cursos\Alura\CSharp\obj\Debug\net6.0\ref\bytebank_ADM.dll

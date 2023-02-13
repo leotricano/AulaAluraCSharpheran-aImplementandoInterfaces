@@ -13,9 +13,9 @@ namespace bytebank_ADM.Funcionarios
         public double Salario { get; set; }
        
 
-        public double GetBonificacao()
+        public virtual double GetBonificacao() // Assim, qualquer classe que herdar de Funcionario poderá reescrever o método GetBonificacao(). Colocando "Virtual"
         { 
-           return this.Salario * 0.10;
+           return this.Salario * 0.10; //10% do salario
         }
     }
 }
